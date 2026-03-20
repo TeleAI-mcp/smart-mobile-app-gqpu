@@ -1,2 +1,3 @@
-# smart-mobile-app-gqpu
-Repository to test GitHub automation for issue management
+# Smart Mobile App Gqpu
+
+A repository to test GitHub automation for issue management.
